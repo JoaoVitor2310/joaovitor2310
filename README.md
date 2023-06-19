@@ -7,7 +7,7 @@
 <img src="https://www.baixesoft.com/wp-content/uploads/2017/06/CURRICULUM-ICON.png" style="width: 100px"/>
 </a>
 
-![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitor2310&show_icons=true&theme=tokyonight)
+
 
 ## Tecnologias que eu uso no meu dia-a-dia:
 
