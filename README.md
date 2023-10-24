@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Vitor! 👋
 
-#### Programador Backend Júnior com grande disciplina para desenvolver e aprender.
+#### Programador Backend com grande disciplina para desenvolver e aprender.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-matos-gouveia-14b71437/)
 <a href="https://docs.google.com/document/d/1tQtWbZDr6f-rfCiAqEb4TAF8X9HXWyeYwkPp74qjDoQ/edit?usp=sharing">
