@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Tecnologias que uso no meu dia a dia:
+## 🚀 Stack:
 
 <div style="display: inline_block">
     <img alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -16,9 +16,6 @@
     <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 ---
@@ -29,11 +26,11 @@
 
 ---
 
-## 🌟 Sobre mim
+## 🌟 About me
 
-Sou estudante de Engenharia de Computação pelo Instituto Federal Fluminense, atualmente finalizando o TCC. Tenho uma loja de jogos chamada [CarcaDeals](https://www.gamivo.com/merchant/5404760/CarcaDeals), onde desenvolvo projetos que aumentam a produtividade e a eficiência das vendas, sempre buscando novas formas de otimizar os processos. Essa experiência me permite aprimorar minhas habilidades como desenvolvedor e ampliar meu conhecimento no desenvolvimento FullStack. 
+Full-Stack Software Engineer with 2+ years of experience developing scalable applications. Strong focus on backend using Laravel, with solid knowledge in Vue.js, Node.js/TypeScript, PostgreSQL/MySQL, and Docker. Experience delivering platforms in sectors such as oil & gas, financial services, and SaaS, including TMS systems, fintech-integrated loan applications, and multi-tenant white-label solutions. Committed to clean architecture, performance, and reliability across both professional projects and personal initiatives.
 
-Estou constantemente em busca de novos desafios e oportunidades para crescer como profissional e contribuir com soluções inovadoras no mundo da tecnologia.
+I am constantly seeking new challenges and opportunities to grow as a professional and contribute with innovative solutions in the world of technology.
 
 
 ---
